@@ -5,8 +5,9 @@ It will be light with no advertisements.
 
 ## Features
 * It only play videos.
-* No AD.
-* Lightweight
+* No more ads.
+* Lightweight.
+* Fast.
 <br><br/>
 
 ## Platforms
