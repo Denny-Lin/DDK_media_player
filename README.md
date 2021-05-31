@@ -1,6 +1,6 @@
 # DDK_media_player
-It is an idea.
-It will be light with no advertisements.
+* It is an idea.
+* It will be light with no advertisements.
 <br><br/>
 
 ## Features
