@@ -24,4 +24,5 @@
 
 ## References
 * https://docs.microsoft.com/en-us/previous-versions/dd757161(v=vs.85)
+* https://www.write-bug.com/article/1570.html
 
