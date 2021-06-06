@@ -21,7 +21,7 @@
 ## All the thinking is following bellow
 * This project will be progressed someday.
 ```c
-* MCIERROR mciSendString(
+MCIERROR mciSendString(
       LPCTSTR lpszCommand,
       LPTSTR  lpszReturnString,
       UINT    cchReturn,
