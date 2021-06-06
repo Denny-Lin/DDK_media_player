@@ -23,5 +23,5 @@
 <br><br/>
 
 ## References
-* < https://docs.microsoft.com/en-us/previous-versions/dd757161(v=vs.85) >
+* https://docs.microsoft.com/en-us/previous-versions/dd757161(v=vs.85)
 
