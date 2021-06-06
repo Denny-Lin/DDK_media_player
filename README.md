@@ -28,6 +28,15 @@ MCIERROR mciSendString(
       HANDLE  hwndCallback
 );
 ```
+
+* Example:
+```c
+mciSendString("play home.mp3", NULL, 0, NULL);
+mciSendString("stop home.mp3", NULL, 0, NULL);
+mciSendString("close home.mp3", NULL, 0, NULL);
+mciSendString("open home.wav", NULL, 0, NULL);
+mciSendString("play home.wav", NULL, 0, NULL);
+```
 <br><br/>
 
 ## References
